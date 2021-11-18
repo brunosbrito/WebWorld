@@ -17,7 +17,7 @@ body {
   height: 60px;
 }
 
-main {
+.conteudo {
   margin: 0 auto;
   width: 90%;
   max-width: 980px;
